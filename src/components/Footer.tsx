@@ -9,7 +9,6 @@ export default function Footer() {
             <div className="flex items-center gap-2.5">
               <span className="relative flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-brand-400 to-trust-800">
                 <ShoppingCart className="absolute h-4 w-4 text-white/90" />
-                <Zap className="h-5 w-5 text-white" />
               </span>
               <span className="font-display text-xl font-extrabold text-white">أجي تيك</span>
             </div>
